@@ -4,6 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/ff142cfbcd634e8ad8f1/maintainability)](https://codeclimate.com/github/usernam3/meta_commit/maintainability)
 [![Coverage Status](https://coveralls.io/repos/github/usernam3/meta_commit/badge.svg?branch=master)](https://coveralls.io/github/usernam3/meta_commit?branch=master)
 [![Inline docs](https://inch-ci.org/github/usernam3/meta_commit.svg?branch=master)](http://inch-ci.org/github/usernam3/meta_commit)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fusernam3%2Fmeta_commit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fusernam3%2Fmeta_commit?ref=badge_shield)
 
 >   Enrich commit diffs with programing language insights
 
@@ -251,3 +252,7 @@ Idea is that each extension should add new capabilities and knowledge on how to 
 Without extensions the meta_commit is just a script which traverses git repository and read files.
 
 [Here](https://github.com/usernam3/meta_commit/blob/master/CONTRIBUTING.md#creating-new-extension) you can get more information about how to create new extension. 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fusernam3%2Fmeta_commit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fusernam3%2Fmeta_commit?ref=badge_large)
